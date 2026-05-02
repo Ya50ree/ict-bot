@@ -1,9 +1,4 @@
-# “””
-
-# بوت ICT متعدد الفريمات مع صورة شارت
-
-“””
-
+# ICT Bot - Multi Timeframe Analysis
 import os
 import io
 import anthropic
