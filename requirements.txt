@@ -3,3 +3,4 @@ anthropic
 yfinance
 pandas
 numpy
+matplotlib
