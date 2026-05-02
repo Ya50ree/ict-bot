@@ -77,7 +77,7 @@ BSL: {liq['BSL']} / SSL: {liq['SSL']}
 📊 R:R: [رقم]:1
 ⚠️ تنبيه: [جملة واحدة]"""
 
-    msg = client.messages.create(model="model="claude-sonnet-4-5"
+    msg = client.messages.create(model="claude-sonnet-4-5"
 ", max_tokens=600,
                                   messages=[{"role":"user","content":prompt}])
     return msg.content[0].text.strip()
