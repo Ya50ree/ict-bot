@@ -1,5 +1,5 @@
-python-telegram-bot==20.7
-anthropic==0.21.3
-yfinance==0.2.36
-pandas==2.2.0
-numpy==1.26.4
+python-telegram-bot
+anthropic
+yfinance
+pandas
+numpy
